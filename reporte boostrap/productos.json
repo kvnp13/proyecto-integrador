@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "nombre": "Playera Chalino Sanchez",
+      "precio": 30,
+      "imagen": "./img/calino.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Playera Valentin Elizalde",
+      "precio": 40,
+      "imagen": "./img/valentin.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Playera Virgen de Guadalupe",
+      "precio": 55,
+      "imagen": "./img/guadalupe.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Playera Blue Demon",
+      "precio": 30,
+      "imagen": "./img/santos.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Playera Jenni Rivera",
+      "precio": 40,
+      "imagen": "./img/jenni.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Playera Chalino Sanchez",
+      "precio": 55,
+      "imagen": "./img/calino.png"
+    },
+    {
+      "id": 7,
+      "nombre": "Playera el Santo",
+      "precio": 30,
+      "imagen": "./img/santo.png"
+    },
+    {
+      "id": 8,
+      "nombre": "Playera Virgen de Guadalupe",
+      "precio": 40,
+      "imagen": "./img/guadalupa.png"
+    },
+    {
+      "id": 9,
+      "nombre": "Playera Jabon Naco",
+      "precio": 55,
+      "imagen": "./img/naco.png"
+    },
+    {
+      "id": 10,
+      "nombre": "Sudadera Blue Demon",
+      "precio": 30,
+      "imagen": "./img/sudaderablue.png"
+    },
+    {
+      "id": 11,
+      "nombre": "Sudadera Nopal",
+      "precio": 40,
+      "imagen": "./img/nopal.png"
+    },
+    {
+      "id": 12,
+      "nombre": "Sudadera Sagrado Corazón",
+      "precio": 55,
+      "imagen": "./img/sudaderacora.png"
+    },
+    {
+      "id": 13,
+      "nombre": "Bolsa del sagrado corazón",
+      "precio": 30,
+      "imagen": "./img/bolsacora.png"
+    },
+    {
+      "id": 14,
+      "nombre": "Bolsa Bailazo",
+      "precio": 40,
+      "imagen": "./img/bailazo.png"
+    },
+    {
+      "id": 15,
+      "nombre": "Bolsa Mexicana",
+      "precio": 55,
+      "imagen": "./img/bolsa.png"
+    }
+  ]
+  

@@ -1,0 +1,119 @@
+#header {
+    padding: 0;
+}
+.navbar-brand {
+    margin-right: 0px;
+}
+.navbar-nav {
+    padding-left: 0;
+}
+.navbar-nav .nav-item {
+    margin-right: 10px;
+}
+#footer{
+    background-color: bisque;
+}
+#footer p{
+    color: black;
+}
+.franjanaranja {
+    background-color: rgb(255, 119, 0);
+    text-align: center;
+    padding: 1vh;
+}
+.nav li {
+    display: inline-block;
+    margin: 8px;
+    text-align: center; 
+}
+.nav a {
+    color: black;
+    padding: 5px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.texto {
+    background-color: #845100;
+    padding: 2vw;
+    margin: 40px;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+.subtitulo {
+    color: black;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.contenedor-imagen {
+    width: 100%;
+    max-width: 100%;
+}
+.contenedor-imagen img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.titulo{
+    background-color: white;
+    border-radius: 10px;
+    margin: 20px;
+    width: 90%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
+.texto2 {
+    background-color: white;
+    padding: 2vw;
+    margin: 40px;
+    color: black;
+    border-radius: 10px;
+    text-align: justify;
+}
+.resultados{
+    background-color: red;
+    color: aliceblue;
+}
+
+.form-row{
+    margin-bottom: 15px;;
+}
+ /* Estilos básicos */
+ body {
+    font-family: Arial, sans-serif;
+}
+#carrito {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+#productos {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 10px;
+}
+.producto {
+    border-radius: 15px;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.carrito-icono {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    font-size: 24px;
+    color: #333;
+    cursor: pointer;
+}
+.carrito-icono:hover {
+    color: #007bff;
+}
